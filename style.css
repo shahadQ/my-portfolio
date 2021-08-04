@@ -405,13 +405,14 @@ header {
   text-align: right;
 }
 
+@media (min-width: 800px) {
 .Technical{
 display: flex;
 max-width: 1000px;
 margin-left: auto;
 margin-right: auto;
 }
-
+}
 
 
 /* footer */
